@@ -21,7 +21,7 @@ Este projeto foi desenvolvido como parte das avaliações do curso de Análise e
 
 Você pode visualizar a aplicação em funcionamento através do seguinte link:
 
-[Cardápio Restaurante])
+[Cardápio Restaurante] (https://dkluizz.github.io/cardapio-restaurante-main/)
 
 ## Desenvolvedor
 
